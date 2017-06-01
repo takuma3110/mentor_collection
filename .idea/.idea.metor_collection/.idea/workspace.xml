@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs.meta" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs.meta" />
-    </list>
+    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MstCharacter.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MstCharacter.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -48,6 +43,27 @@
               <folding>
                 <marker date="1496304726000" expanded="true" signature="76:653" ph="{...}" />
                 <marker date="1496304726000" expanded="true" signature="304:651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonMonoBehaviour.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <marker date="1496306367000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1496306367000" expanded="true" signature="86:652" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="200:403" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="208:400" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="235:376" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="313:371" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="431:454" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="490:650" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="516:560" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="591:612" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -86,6 +102,7 @@
         <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs" />
         <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -218,12 +235,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496304210656</updated>
-      <workItem from="1496304213561" duration="1991000" />
+      <workItem from="1496304213561" duration="2181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1991000" />
+    <option name="totallyTimeSpent" value="2181000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -325,6 +342,25 @@
           <folding>
             <marker date="1496304726000" expanded="true" signature="76:653" ph="{...}" />
             <marker date="1496304726000" expanded="true" signature="304:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <marker date="1496306367000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1496306367000" expanded="true" signature="86:652" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="200:403" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="208:400" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="235:376" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="313:371" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="431:454" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="490:650" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="516:560" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="591:612" ph="{...}" />
           </folding>
         </state>
       </provider>
