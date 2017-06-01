@@ -6,7 +6,7 @@ public class MasterDataManager : MonoBehaviour
 {
 	[SerializeField]
 	private List<MstCharacter> characterTable = new List<MstCharacter>();
-
+	
 	private void Start()
 	{
 		var characterCSV = Resources.Load("CSV/Character.csv") as TextAsset;
@@ -26,4 +26,5 @@ public class MasterDataManager : MonoBehaviour
 		}
 		return data;
 	}
+	
 }
