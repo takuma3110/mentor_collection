@@ -1,16 +1,22 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 
-public class GameManager : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
+public class GameManager
+	: SingletonMonoBehaviour<GameManager>
+{
+	private void Start()
+	{
+		MasterDataManager.instance.LoadData(() => 
+		{
+			print("ロード終わったお");
+		});
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
+
+	public static void Log (object log)
+	{
+		if (Debug.isDebugBuild)
+		{
+			Debug.Log(log);
+		}
 	}
 }
