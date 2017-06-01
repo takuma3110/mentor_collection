@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MasterDataManager : MonoBehaviour
+public class MasterDataManager : SingletonMonoBehaviour<MasterDataManager>
 {
 	[SerializeField]
 	private List<MstCharacter> characterTable = new List<MstCharacter>();
