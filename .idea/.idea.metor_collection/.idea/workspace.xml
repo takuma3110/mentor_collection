@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" />
-    </list>
+    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +90,8 @@
       <file leaf-file-name="ConnectionManager.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <marker date="1496315056000" expanded="true" signature="6:78" ph="..." />
                 <marker date="1496315056000" expanded="true" signature="127:248" ph="{...}" />
@@ -254,12 +252,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496304210656</updated>
-      <workItem from="1496304213561" duration="3648000" />
+      <workItem from="1496304213561" duration="3673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3648000" />
+    <option name="totallyTimeSpent" value="3673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <marker date="1496315056000" expanded="true" signature="6:78" ph="..." />
             <marker date="1496315056000" expanded="true" signature="127:248" ph="{...}" />
