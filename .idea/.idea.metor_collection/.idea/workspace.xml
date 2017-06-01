@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/GameManager.cs" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/GameManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CSVReader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+              <folding>
+                <marker date="1496304245000" expanded="true" signature="6:63" ph="..." />
+                <marker date="1496304245000" expanded="true" signature="106:1888" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="157:328" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="454:707" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="535:679" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="589:651" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="808:1519" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="948:1043" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="1198:1492" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="1288:1488" ph="{...}" />
+                <marker date="1496304245000" expanded="true" signature="1331:1422" ph="/* This line was to replace &quot;&quot; with &quot; in my output. ... */" />
+                <marker date="1496304245000" expanded="true" signature="1593:1886" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MstCharacter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="44" column="58" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="58" />
+              <folding>
+                <marker date="1496314477000" expanded="true" signature="76:1291" ph="{...}" />
+                <marker date="1496314477000" expanded="true" signature="304:651" ph="{...}" />
+                <marker date="1496314477000" expanded="true" signature="1229:1289" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SingletonMonoBehaviour.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <marker date="1496306367000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1496306367000" expanded="true" signature="86:652" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="200:403" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="208:400" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="235:376" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="313:371" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="431:454" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="490:650" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="516:560" ph="{...}" />
+                <marker date="1496306367000" expanded="true" signature="591:612" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MasterDataManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding>
+                <marker date="1496316249000" expanded="true" signature="6:123" ph="..." />
+                <marker date="1496316249000" expanded="true" signature="201:1257" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="442:495" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="738:1061" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="820:1053" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="913:1032" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="1113:1255" ph="{...}" />
+                <marker date="1496316249000" expanded="true" signature="1206:1237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <marker date="1496316982000" expanded="true" signature="6:100" ph="..." />
+                <marker date="1496316982000" expanded="true" signature="177:969" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="304:380" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="509:967" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="645:814" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="756:810" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="821:964" ph="{...}" />
+                <marker date="1496316982000" expanded="true" signature="918:960" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <marker date="1496316278000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1496316278000" expanded="true" signature="109:315" ph="{...}" />
+                <marker date="1496316278000" expanded="true" signature="133:216" ph="{...}" />
+                <marker date="1496316278000" expanded="true" signature="181:211" ph="{...}" />
+                <marker date="1496316278000" expanded="true" signature="254:313" ph="{...}" />
+                <marker date="1496316278000" expanded="true" signature="283:310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SplitCs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="959" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metor_collection (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp (with warnings)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assets" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mentor_collection" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metor_collection (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assembly-CSharp (with warnings)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="" />
+      <created>1496304210656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496304210656</updated>
+      <workItem from="1496304213561" duration="5415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5415000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="959" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+          <folding>
+            <marker date="1496304245000" expanded="true" signature="6:63" ph="..." />
+            <marker date="1496304245000" expanded="true" signature="106:1888" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="157:328" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="454:707" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="535:679" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="589:651" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="808:1519" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="948:1043" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="1198:1492" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="1288:1488" ph="{...}" />
+            <marker date="1496304245000" expanded="true" signature="1331:1422" ph="/* This line was to replace &quot;&quot; with &quot; in my output. ... */" />
+            <marker date="1496304245000" expanded="true" signature="1593:1886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/SingletonMonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1496306367000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1496306367000" expanded="true" signature="86:652" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="200:403" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="208:400" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="235:376" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="313:371" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="431:454" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="490:650" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="516:560" ph="{...}" />
+            <marker date="1496306367000" expanded="true" signature="591:612" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1496316278000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1496316278000" expanded="true" signature="109:315" ph="{...}" />
+            <marker date="1496316278000" expanded="true" signature="133:216" ph="{...}" />
+            <marker date="1496316278000" expanded="true" signature="181:211" ph="{...}" />
+            <marker date="1496316278000" expanded="true" signature="254:313" ph="{...}" />
+            <marker date="1496316278000" expanded="true" signature="283:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="58" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="58" />
+          <folding>
+            <marker date="1496314477000" expanded="true" signature="76:1291" ph="{...}" />
+            <marker date="1496314477000" expanded="true" signature="304:651" ph="{...}" />
+            <marker date="1496314477000" expanded="true" signature="1229:1289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <marker date="1496316249000" expanded="true" signature="6:123" ph="..." />
+            <marker date="1496316249000" expanded="true" signature="201:1257" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="442:495" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="738:1061" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="820:1053" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="913:1032" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="1113:1255" ph="{...}" />
+            <marker date="1496316249000" expanded="true" signature="1206:1237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/ConnectionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" lean-forward="false" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <marker date="1496316982000" expanded="true" signature="6:100" ph="..." />
+            <marker date="1496316982000" expanded="true" signature="177:969" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="304:380" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="509:967" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="645:814" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="756:810" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="821:964" ph="{...}" />
+            <marker date="1496316982000" expanded="true" signature="918:960" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
