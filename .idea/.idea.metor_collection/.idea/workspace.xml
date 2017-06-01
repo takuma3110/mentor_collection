@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="" />
+    <list default="true" id="e540752b-b503-4e19-8149-919ae4a8d380" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs.meta" afterPath="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs.meta" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CSVReader.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CSVReader.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="415">
+              <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
               <folding>
                 <marker date="1496304245000" expanded="true" signature="6:63" ph="..." />
                 <marker date="1496304245000" expanded="true" signature="106:1888" ph="{...}" />
@@ -35,7 +40,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MstCharacter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <marker date="1496304726000" expanded="true" signature="76:653" ph="{...}" />
+                <marker date="1496304726000" expanded="true" signature="304:651" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MasterDataManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="60" />
+              <folding>
+                <marker date="1496305966000" expanded="true" signature="6:78" ph="..." />
+                <marker date="1496305966000" expanded="true" signature="126:721" ph="{...}" />
+                <marker date="1496305966000" expanded="true" signature="240:525" ph="{...}" />
+                <marker date="1496305966000" expanded="true" signature="413:522" ph="{...}" />
+                <marker date="1496305966000" expanded="true" signature="577:719" ph="{...}" />
+                <marker date="1496305966000" expanded="true" signature="670:701" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SplitCs</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs" />
       </list>
     </option>
   </component>
@@ -176,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496304210656</updated>
-      <workItem from="1496304213561" duration="402000" />
+      <workItem from="1496304213561" duration="1991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402000" />
+    <option name="totallyTimeSpent" value="1991000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,8 +276,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/CSVReader.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="415">
+          <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
           <folding>
             <marker date="1496304245000" expanded="true" signature="6:63" ph="..." />
             <marker date="1496304245000" expanded="true" signature="106:1888" ph="{...}" />
@@ -249,6 +291,40 @@
             <marker date="1496304245000" expanded="true" signature="1288:1488" ph="{...}" />
             <marker date="1496304245000" expanded="true" signature="1331:1422" ph="/* This line was to replace &quot;&quot; with &quot; in my output. ... */" />
             <marker date="1496304245000" expanded="true" signature="1593:1886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Resources/CSV/Character/Character.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MasterDataManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="60" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="60" />
+          <folding>
+            <marker date="1496305966000" expanded="true" signature="6:78" ph="..." />
+            <marker date="1496305966000" expanded="true" signature="126:721" ph="{...}" />
+            <marker date="1496305966000" expanded="true" signature="240:525" ph="{...}" />
+            <marker date="1496305966000" expanded="true" signature="413:522" ph="{...}" />
+            <marker date="1496305966000" expanded="true" signature="577:719" ph="{...}" />
+            <marker date="1496305966000" expanded="true" signature="670:701" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/mentor_collection/Scripts/MstCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1496304726000" expanded="true" signature="76:653" ph="{...}" />
+            <marker date="1496304726000" expanded="true" signature="304:651" ph="{...}" />
           </folding>
         </state>
       </provider>
